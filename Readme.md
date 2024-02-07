@@ -20,6 +20,13 @@ This is a simple text-based Hangman game implemented in Python. The player has t
 
 - Python 3.x
 
+- 4. Follow the on-screen instructions to play the game.
+
+## Customization
+
+- You can customize the list of words used in the game by modifying the `words` list in the `Hangman.py` file.
+- You can also adjust the number of incorrect guesses allowed by modifying the `attempts` variable in the `Hangman.py` file.
+
 ## Usage
 
 1. Clone this repository to your local machine.
