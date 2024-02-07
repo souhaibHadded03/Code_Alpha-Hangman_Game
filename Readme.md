@@ -4,7 +4,7 @@ This is a simple text-based Hangman game implemented in Python. The player has t
 
 ## How to Play
 
-1. Run the `hangman.py` file using Python.
+1. Run the `Hangman.py` file using Python.
 2. The program will select a random word from a predefined list.
 3. Guess letters one at a time to uncover the word.
 4. You have a limited number of incorrect guesses before losing the game.
